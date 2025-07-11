@@ -1,0 +1,96 @@
+
+.azeret-mono-uniquifier {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+ 
+ /*nav related style*/
+  .im{
+    background-image: url(Hero-bg.png);
+    height: 550px;
+    width: 1365px;
+  }
+ nav ul{
+    
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin: 40px;
+ }
+ .logo-design{
+    color: #4E47FF;
+    font-size: 40;
+    font-weight: black;
+
+ }
+ .btn-primary{
+    color: #FFFFFF;
+    font-weight: lighter;
+    font-size: 16;
+    background-color: #4E47FF;
+    border-radius: 6px;
+   box-sizing: border-box;
+   border: none;
+   padding: 12px 36px ;
+
+ }
+
+ .banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 200px 50px;
+ }
+ .btn-second{
+    color: #FFFFFF;
+    font-weight: lighter;
+    font-size: 16;
+    background-color: #4E47FF;
+    border-radius: 6px;
+   box-sizing: border-box;
+   border: none;
+   padding: 12px 36px ;
+
+ }
+ .ban-tittle{
+    font-weight: bolder;
+    font-size: 90;
+    color: 252432;
+ }
+
+ .product{
+    display: flex;
+    padding: 20px
+ }
+ .pro-tittle{
+    /*font-size:50 ;*/
+    color: 700;
+    font-weight: #252432;
+ }
+ .btn-third{
+    color: #FFFFFF;
+    font-weight: lighter;
+    font-size: 16;
+    background-color: #4E47FF;
+    border-radius: 6px;
+   box-sizing: border-box;
+   border: none;
+   padding: 12px 36px ;
+ }
+
+ 
+
+ .pro-goals{
+    background-color:;
+    display: flex;
+ }
+
+ .development{/*
+    margin: 215px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 115px;
