@@ -168,4 +168,47 @@ list-style-type: none;
    
    text-align: center;
    justify-content: center;
+   padding: 15px;
+}
+.f-des{
+   color: #AAAAAA;
+   font-size: small;
+}
+.last-img{
+   padding: 20px;
+   text-align: center;
+   border-radius: 30px;
+   width: 400px;
+   height: auto;
+}
+   .style-four{
+      background-color: #FFFFFF;
+      margin: 70px 250px;
+   }
+
+
+.btn-last{
+   color: #FFFFFF;
+    font-weight: lighter;
+    font-size: 16;
+    background-color: #4E47FF;
+    border-radius: 6px;
+   box-sizing: border-box;
+   border: none;
+   padding: 15px;
+}
+input{
+  
+   padding: 15px;
+}
+
+.styleX{
+   display: flex;
+    margin: 70px 250px;
+}
+.F{
+   margin-left: 250px;
+}
+.get{
+   font-size: xx-large;
 }
