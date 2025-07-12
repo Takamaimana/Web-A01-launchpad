@@ -212,3 +212,35 @@ input{
 .get{
    font-size: xx-large;
 }
+
+.Sty-F{
+   
+   text-align: center;
+   background-color: #FFFFFF;
+}
+.S-list{
+   list-style-type: none;
+   display: flex;
+   padding: 30px;
+   margin: 3opx;
+   gap: 45px;
+   text-align: center;
+   justify-content: center;
+    color: #AAAAAA;
+}
+.L-sty{
+   color: #4E47FF;
+   font-size: 1000;
+   font-weight: bolder;
+   justify-content: center;
+   text-align: center;
+   display: flex;
+   
+}
+.F-dis{
+   font-size: small;
+   color: #AAAAAA;
+    text-align: center;
+   justify-content: center;
+
+}
