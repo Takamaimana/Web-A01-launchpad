@@ -4,6 +4,10 @@
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+    
+  }
+  .blue{
+   background-color: rgb(228, 245, 245);
   }
  
  /*nav related style*/
@@ -35,6 +39,7 @@
    box-sizing: border-box;
    border: none;
    padding: 12px 36px ;
+   margin-top: 10px;
 
  }
 
@@ -63,8 +68,14 @@
  }
 
  .product{
-    display: flex;
-    padding: 20px
+    margin: 70px 250px;
+ }
+ .pro-content{
+   display: flex;
+   
+ }
+ .pro-col{
+    color: #AAAAAA;
  }
  .pro-tittle{
     /*font-size:50 ;*/
@@ -84,13 +95,77 @@
 
  
 
- .pro-goals{
-    background-color:;
+ .style-sec{
+    background-color:#dadada;
+    margin: 70px 250px;
+    border-radius: 10px;
     display: flex;
  }
+ .listing{
+list-style-type: none;
+ }
+.box{
+   padding: 20px 45px;
+  /*justify-content: center;*/
+  display: flex;
+}
+.head{
+  padding: 0px 70px;
+   font-size: 40;
+   font-weight: bold;
+   
+}
+.head-one{
+   text-align: center;
+   justify-content: center;
+   display: flex;
+}
+.number{
+   color: #4E47FF;
+   font-size: 170;
+   font-weight: bold;
+}
+.value{
+   color: #AAAAAA;
+   font-size: small;
+}
+ .head-four{
+    margin: 70px 250px;
+    font-weight: 600;
+ }
+ .head-T{
+ text-align: center;
+ display: flex;
+ justify-content: center;
+ }
 
- .development{/*
-    margin: 215px;
-    text-align: center;
-    margin-left: 100px;
-    margin-right: 115px;
+ .container{
+   display: flex;
+   gap: 10px;
+   margin: 70px 250px;
+ }
+ .review{
+  background-color: aliceblue;
+ }
+ .R-name{
+   display: flex;
+ }
+ .R-D{
+   padding-left: 15px;
+   font-size: medium;
+}
+.btn-x{
+ color: #FFFFFF;
+    font-weight: lighter;
+    font-size: 16;
+    background-color: #4E47FF;
+    border-radius: 6px;
+   box-sizing: border-box;
+   border: none;
+   padding: 12px 36px ;
+}
+.focus{
+   
+   text-align: center;
+   justify-content: center;
+}
